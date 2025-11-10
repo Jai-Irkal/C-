@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace First
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
