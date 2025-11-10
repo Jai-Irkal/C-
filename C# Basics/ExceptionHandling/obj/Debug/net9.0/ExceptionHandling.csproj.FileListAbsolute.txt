@@ -1,0 +1,15 @@
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.exe
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.deps.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.runtimeconfig.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\bin\Debug\net9.0\ExceptionHandling.pdb
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.sourcelink.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\refint\ExceptionHandling.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.pdb
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\ExceptionHandling\obj\Debug\net9.0\ref\ExceptionHandling.dll
