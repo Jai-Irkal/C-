@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaivinodIrkal\\Documents\\GitHub\\C-\\C# Basics\\Numbers\\Numbers.csproj",
-      "projectName": "Numbers",
-      "projectPath": "C:\\Users\\jaivinodIrkal\\Documents\\GitHub\\C-\\C# Basics\\Numbers\\Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\jaivinodIrkal\\Documents\\GitHub\\C-\\C# Basics\\UserInput\\UserInput.csproj",
+      "projectName": "UserInput",
+      "projectPath": "C:\\Users\\jaivinodIrkal\\Documents\\GitHub\\C-\\C# Basics\\UserInput\\UserInput.csproj",
       "packagesPath": "C:\\Users\\jaivinodIrkal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaivinodIrkal\\Documents\\GitHub\\C-\\C# Basics\\Numbers\\obj\\",
+      "outputPath": "C:\\Users\\jaivinodIrkal\\Documents\\GitHub\\C-\\C# Basics\\UserInput\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

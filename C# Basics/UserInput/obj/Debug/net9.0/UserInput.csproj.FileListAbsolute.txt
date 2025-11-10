@@ -1,0 +1,15 @@
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\bin\Debug\net9.0\UserInput.exe
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\bin\Debug\net9.0\UserInput.deps.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\bin\Debug\net9.0\UserInput.runtimeconfig.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\bin\Debug\net9.0\UserInput.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\bin\Debug\net9.0\UserInput.pdb
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\UserInput.AssemblyInfo.cs
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\UserInput.sourcelink.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\UserInput.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\refint\UserInput.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\UserInput.pdb
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\UserInput.genruntimeconfig.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\UserInput\obj\Debug\net9.0\ref\UserInput.dll
