@@ -1,0 +1,15 @@
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\Classes.AssemblyInfoInputs.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\Classes.AssemblyInfo.cs
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\Classes.sourcelink.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\bin\Debug\net9.0\Classes.exe
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\bin\Debug\net9.0\Classes.deps.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\bin\Debug\net9.0\Classes.runtimeconfig.json
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\bin\Debug\net9.0\Classes.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\bin\Debug\net9.0\Classes.pdb
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\Classes.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\refint\Classes.dll
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\Classes.pdb
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\Classes.genruntimeconfig.cache
+C:\Users\jaivinodIrkal\Documents\GitHub\C-\C# Basics\Classes\obj\Debug\net9.0\ref\Classes.dll
